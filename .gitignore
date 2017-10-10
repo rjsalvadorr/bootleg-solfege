@@ -1,0 +1,5 @@
+# Ignore output files!
+*.midi
+*.mid
+*.pdf
+*.log
