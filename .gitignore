@@ -1,5 +1,10 @@
-# Ignore output files!
-*.midi
-*.mid
-*.pdf
-*.log
+##### Ignore output files
+
+build/**
+
+##### Ignore venv files
+
+Include/**
+Lib/**
+Scripts/**
+pyvenv.cfg

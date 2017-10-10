@@ -9,6 +9,8 @@ I made a whole set of solfege exercise MP3s, so I can practice some ear training
 
 ## Dependencies
 
-- Lilypond
+The scripts are written for Python 3!
 
-I wrote this on a Windows platform, though the `*.ly` files should work the same way anywhere.
+- [Python](https://www.python.org/downloads/)
+- [Lilypond](http://lilypond.org/)
+- [eSpeak](http://espeak.sourceforge.net/)
