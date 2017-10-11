@@ -1,10 +1,14 @@
-##### Ignore output files
+##### output files
 
 build/**
 
-##### Ignore venv files
+##### venv files
 
 Include/**
 Lib/**
 Scripts/**
 pyvenv.cfg
+
+##### Pip
+
+pip-selfcheck.json

@@ -12,5 +12,6 @@ I made a whole set of solfege exercise MP3s, so I can practice some ear training
 The scripts are written for Python 3!
 
 - [Python](https://www.python.org/downloads/)
+    + pyYAML
 - [Lilypond](http://lilypond.org/)
 - [eSpeak](http://espeak.sourceforge.net/)

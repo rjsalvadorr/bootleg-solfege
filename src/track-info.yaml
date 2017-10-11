@@ -1,0 +1,138 @@
+---
+infoMajor:
+  albumName: Solfege Exercises - Major
+  artistName: RJ Salvador
+  trackInfo:
+    - trackNum: 1
+      title: maj-scale
+      text: Major scale
+    
+    - trackNum: 2
+      title: maj-scale-lower
+      text: Major scale, lower half, dough to soul
+
+    - trackNum: 3
+      title: maj-scale-upper
+      text: Major scale, upper half, dough to far
+
+    - trackNum: 4
+      title: do-mi-sol
+      text: dough me soul
+    
+    - trackNum: 5
+      title: mi-sol-do
+      text: me soul dough
+
+    - trackNum: 6
+      title: sol-do-mi
+      text: soul dough me
+    
+    - trackNum: 7
+      title: do-mi-sol-do
+      text: dough me soul dough
+
+    - trackNum: 8
+      title: mi-sol-do-mi
+      text: Me soul dough me
+
+    - trackNum: 9
+      title: sol-do-mi-sol
+      text: Sol dough me soul
+    
+    - trackNum: 10
+      title: one-to-five
+      text: dough me sol dough and then ray soul tee ray
+
+    - trackNum: 11
+      title: one-to-four
+      text: dough me soul dough and then dough far la dough
+
+    - trackNum: 12
+      title: one-to-six
+      text: dough me soul dough and then dough me la dough
+    
+    - trackNum: 13
+      title: one-to-two
+      text: dough me soul dough and then ray far la ray
+
+    - trackNum: 14
+      title: one-to-seven
+      text: dough me soul dough and then ray far tee ray
+    
+    - trackNum: 15
+      title: one-to-three
+      text: dough me sol dough and then me soul tee me
+
+    - trackNum: 16
+      title: one-to-four-to-five-to-one
+      text: dough me sol dough and then dough far la dough and then ray soul tee ray
+
+infoMinor:
+  albumName: Solfege Exercises - Minor
+  artistName: RJ Salvador
+  trackInfo:
+    - trackNum: 1
+      title: maj-scale
+      text: Major scale
+    
+    - trackNum: 2
+      title: maj-scale-lower
+      text: Major scale, lower half
+
+    - trackNum: 3
+      title: maj-scale-upper
+      text: Major scale, upper half
+
+    - trackNum: 4
+      title: maj-scale
+      text: Major scale
+    
+    - trackNum: 5
+      title: maj-scale-lower
+      text: Major scale, lower half
+
+    - trackNum: 6
+      title: maj-scale-upper
+      text: Major scale, upper half
+    
+    - trackNum: 7
+      title: maj-scale-lower
+      text: Major scale, lower half
+
+    - trackNum: 8
+      title: maj-scale-upper
+      text: Major scale, upper half
+
+    - trackNum: 9
+      title: maj-scale
+      text: Major scale
+    
+    - trackNum: 10
+      title: maj-scale-lower
+      text: Major scale, lower half
+
+    - trackNum: 11
+      title: maj-scale-upper
+      text: Major scale, upper half
+
+    - trackNum: 12
+      title: maj-scale
+      text: Major scale
+    
+    - trackNum: 13
+      title: maj-scale-lower
+      text: Major scale, lower half
+
+    - trackNum: 14
+      title: maj-scale-upper
+      text: Major scale, upper half
+    
+    - trackNum: 15
+      title: maj-scale-lower
+      text: Major scale, lower half
+
+    - trackNum: 16
+      title: maj-scale-upper
+      text: Major scale, upper half
+    
+...
