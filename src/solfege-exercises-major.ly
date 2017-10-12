@@ -47,7 +47,7 @@ global = {
 \score {
   \layout {}
   \midi { \tempo 4=65 }
-  \header { piece = "Major scale" title = ##f subtitle = "Scales" }
+  \header { piece = "01. Major scale" title = ##f subtitle = "Scales" }
   \new Staff \with {
     midiInstrument = "acoustic guitar (nylon)"
   } \relative c'{
@@ -62,7 +62,7 @@ global = {
 \score {
   \layout {}
   \midi { \tempo 4=65 }
-  \header { piece = "Major scale, lower half (Do - Sol)" title = ##f subtitle = ##f }
+  \header { piece = "02. Major scale, lower half (Do - Sol)" title = ##f subtitle = ##f }
   \new Staff \with {
     midiInstrument = "acoustic guitar (nylon)"
   } \relative c'{
@@ -79,7 +79,7 @@ global = {
 \score {
   \layout {}
   \midi { \tempo 4=65 }
-  \header { piece = "Major scale, upper half (Do - Fa)" title = ##f subtitle = ##f }
+  \header { piece = "03. Major scale, upper half (Do - Fa)" title = ##f subtitle = ##f }
   \new Staff \with {
     midiInstrument = "acoustic guitar (nylon)"
   } \relative c'{
@@ -100,7 +100,7 @@ global = {
 \score {
   \layout {}
   \midi { \tempo 4=65 }
-  \header { piece = "Do mi sol" title = ##f subtitle = "Three note arpeggios" }
+  \header { piece = "04. Do mi sol" title = ##f subtitle = "Three note arpeggios" }
   \new Staff \with {
     midiInstrument = "acoustic guitar (nylon)"
   } \relative c'{
@@ -118,7 +118,7 @@ global = {
 \score {
   \layout {}
   \midi { \tempo 4=65 }
-  \header { piece = "Mi sol do" title = ##f subtitle = ##f }
+  \header { piece = "05. Mi sol do" title = ##f subtitle = ##f }
   \new Staff \with {
     midiInstrument = "acoustic guitar (nylon)"
   } \relative c'{
@@ -136,7 +136,7 @@ global = {
 \score {
   \layout {}
   \midi { \tempo 4=65 }
-  \header { piece = "Sol do mi" title = ##f subtitle = ##f }
+  \header { piece = "06. Sol do mi" title = ##f subtitle = ##f }
   \new Staff \with {
     midiInstrument = "acoustic guitar (nylon)"
   } \relative c'{
@@ -154,7 +154,7 @@ global = {
 \score {
   \layout {}
   \midi { \tempo 4=65 }
-  \header { piece = "Do mi sol do" title = ##f subtitle = "Four note arpeggios" }
+  \header { piece = "07. Do mi sol do" title = ##f subtitle = "Four note arpeggios" }
   \new Staff \with {
     midiInstrument = "acoustic guitar (nylon)"
   } \relative c'{
@@ -171,7 +171,7 @@ global = {
 \score {
   \layout {}
   \midi { \tempo 4=65 }
-  \header { piece = "Mi sol do mi" title = ##f subtitle = ##f }
+  \header { piece = "08. Mi sol do mi" title = ##f subtitle = ##f }
   \new Staff \with {
     midiInstrument = "acoustic guitar (nylon)"
   } \relative c'{
@@ -188,7 +188,7 @@ global = {
 \score {
   \layout {}
   \midi { \tempo 4=65 }
-  \header { piece = "Sol do mi sol" title = ##f subtitle = ##f }
+  \header { piece = "09. Sol do mi sol" title = ##f subtitle = ##f }
   \new Staff \with {
     midiInstrument = "acoustic guitar (nylon)"
   } \relative c'{
@@ -209,7 +209,7 @@ global = {
 \score {
   \layout {}
   \midi { \tempo 4=65 }
-  \header { piece = "Do mi sol do (I) →  Re sol ti re (V)" title = ##f subtitle = "Diatonic chords" }
+  \header { piece = "10. Do mi sol do (I) →  Re sol ti re (V)" title = ##f subtitle = "Diatonic chords" }
   \new Staff \with {
     midiInstrument = "acoustic guitar (nylon)"
   } \relative c'{
@@ -230,7 +230,7 @@ global = {
 \score {
   \layout {}
   \midi { \tempo 4=65 }
-  \header { piece = "Do mi sol do (I)  →  Do fa la do (IV)" title = ##f subtitle = ##f }
+  \header { piece = "11. Do mi sol do (I)  →  Do fa la do (IV)" title = ##f subtitle = ##f }
   \new Staff \with {
     midiInstrument = "acoustic guitar (nylon)"
   } \relative c'{
@@ -251,7 +251,7 @@ global = {
 \score {
   \layout {}
   \midi { \tempo 4=65 }
-  \header { piece = "Do mi sol do (I)  →  Do mi la do (vi)" title = ##f subtitle = ##f }
+  \header { piece = "12. Do mi sol do (I)  →  Do mi la do (vi)" title = ##f subtitle = ##f }
   \new Staff \with {
     midiInstrument = "acoustic guitar (nylon)"
   } \relative c'{
@@ -272,7 +272,7 @@ global = {
 \score {
   \layout {}
   \midi { \tempo 4=65 }
-  \header { piece = "Do mi sol do (I)  →  Re fa la re (ii)" title = ##f subtitle = ##f }
+  \header { piece = "13. Do mi sol do (I)  →  Re fa la re (ii)" title = ##f subtitle = ##f }
   \new Staff \with {
     midiInstrument = "acoustic guitar (nylon)"
   } \relative c'{
@@ -293,7 +293,7 @@ global = {
 \score {
   \layout {}
   \midi { \tempo 4=65 }
-  \header { piece = "Do mi sol do (I)  →  Re fa ti re (vii°)" title = ##f subtitle = ##f }
+  \header { piece = "14. Do mi sol do (I)  →  Re fa ti re (vii°)" title = ##f subtitle = ##f }
   \new Staff \with {
     midiInstrument = "acoustic guitar (nylon)"
   } \relative c'{
@@ -314,7 +314,7 @@ global = {
 \score {
   \layout {}
   \midi { \tempo 4=65 }
-  \header { piece = "Do mi sol do (I)  →  Mi sol ti mi (iii)" title = ##f subtitle = ##f }
+  \header { piece = "15. Do mi sol do (I)  →  Mi sol ti mi (iii)" title = ##f subtitle = ##f }
   \new Staff \with {
     midiInstrument = "acoustic guitar (nylon)"
   } \relative c'{
@@ -336,7 +336,7 @@ global = {
 \score {
   \layout {}
   \midi { \tempo 4=65 }
-  \header { piece = "Do mi sol do (I)  →  Do fa la do (IV)  →  Re sol ti re (V)  →  back to I" title = ##f subtitle = ##f }
+  \header { piece = "16. Do mi sol do (I)  →  Do fa la do (IV)  →  Re sol ti re (V)  →  back to I" title = ##f subtitle = ##f }
   \new Staff \with {
     midiInstrument = "acoustic guitar (nylon)"
   } \relative c'{
